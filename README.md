@@ -57,7 +57,7 @@ Possuo conhecimentos em desenvolvimento de sistemas, com foco em boas práticas 
     title="Angular"
     width="30px" 
     style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/angularjs/angularjs-original.svg" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/reactjs/reactjs-original.svg" 
 />
 <img 
     align="left" 
