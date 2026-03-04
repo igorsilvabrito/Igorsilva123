@@ -53,11 +53,11 @@ Possuo conhecimentos em desenvolvimento de sistemas, com foco em boas práticas 
 />
 <img 
     align="left" 
-    alt="Angular" 
-    title="Angular"
+    alt="React" 
+    title="React"
     width="30px" 
     style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/reactjs/reactjs-original.svg" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" 
 />
 <img 
     align="left" 
